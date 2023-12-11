@@ -6,13 +6,7 @@ The results of this evaluation are presented in the Learning Analytics and Knowl
 
 
 
-> Pankaj Chejara, Reet Kasepalu, Luis P. Prieto, María Jesús Rodríguez-Triana,  
-> and Adolfo Ruiz-Calleja. 2024. Bringing Collaborative Analytics using Mul-  
-> timodal Data to the Masses: Evaluation and Design Guidelines for Devel-  
-> oping a MMLA System for Research and Teaching Practices in CSCL. In  
-> LAK24: 14th International Learning Analytics and Knowledge Conference  
-> (LAK 2024), March 18–22, 2024, Kyoto, Japan. ACM, New York, NY, USA,  
-> 7 p
+> Pankaj Chejara, Reet Kasepalu, Luis P. Prieto, María Jesús Rodríguez-Triana,  and Adolfo Ruiz-Calleja. 2024. Bringing Collaborative Analytics using Multimodal Data to the Masses: Evaluation and Design Guidelines for Developing a MMLA System for Research and Teaching Practices in CSCL. In LAK24: 14th International Learning Analytics and Knowledge Conference (LAK 2024), March 18–22, 2024, Kyoto, Japan. ACM, New York, NY, USA, 10 pages. [https://doi.org/10.1145/3636555.3636877](https://doi.org/10.1145/3636555.3636877)
 
 
 
